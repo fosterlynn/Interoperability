@@ -2,7 +2,7 @@
 The goal is to make all the MAN software interoperable, using [ValueFlows](https://github.com/valueflows/valueflows) vocabulary. The MAN softwar includes:
 * Mutual Aid Platform (MAP) - Python / Odoo
 * Dane County Time Bank - Community Forge - Drupal
-* Locecon resource flow mapping - Python / Django (lower priority)
+* Locecon resource flow mapping - Python / Django - lower priority
 * Poshterity - future
 * Common Fund - future
 
@@ -22,3 +22,5 @@ The initial high-level requirements are:
 * Visible interface between poshterity budget and MAP accounts - including showing budget progress on various items (like yesmen action module, that shows progress bars)
 * Communications and work tools - best functionality for best use at best time (etherpad, email threads, google docs)
 * MAP projects will operate in exchanges
+
+
