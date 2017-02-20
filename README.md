@@ -1,5 +1,5 @@
 # Interoperability
-The goal is to make all the MAN software interoperable, using [ValueFlows](https://github.com/valueflows/valueflows) vocabulary. The MAN softwar includes:
+The goal is to make all the MAN software interoperable, using [ValueFlows](https://github.com/valueflows/valueflows) vocabulary. The MAN software includes:
 * Mutual Aid Platform (MAP) - Python / Odoo
 * Dane County Time Bank - Community Forge - Drupal
 * Locecon resource flow mapping - Python / Django - lower priority
